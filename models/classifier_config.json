@@ -1,0 +1,7 @@
+{
+    "model_name": "facebook/wav2vec2-base",
+    "sample_rate": 16000,
+    "clip_duration": 4,
+    "embedding_size": 768,
+    "threshold": 0.03522262626262626
+}
